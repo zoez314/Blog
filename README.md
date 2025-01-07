@@ -13,6 +13,7 @@ This repo contains the source code of a blog project that will be used throughou
 
 * clone the project
 * open the index file in a browser
+
 BootcampStats.ipynb: An analysis of bootcamp grads in terms of job placement and salary.
 
 HowToBreakIntoTheField.ipynb: An analysis of how to become a software developer.
